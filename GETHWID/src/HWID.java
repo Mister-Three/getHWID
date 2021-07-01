@@ -1,3 +1,4 @@
+// Stolen code...
 import java.security.MessageDigest;
 
 public class HWID {
