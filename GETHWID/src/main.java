@@ -56,7 +56,7 @@ public class main {
 
         // Finally, send the fucking message.
         String s = dm.toJson(true);
-        discord.sendMessage(dm); //Finally, send the message:
+        discord.sendMessage(dm);
 
     }
 
